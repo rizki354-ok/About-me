@@ -1,36 +1,36 @@
 Mengantuk dan kurangnya konsentrasi bisa disebabkan oleh berbagai faktor seperti kurang tidur, pola makan yang tidak seimbang, dehidrasi, dan kurangnya aktivitas fisik. Berikut beberapa tips yang dapat membantu agar tidak mengantuk dan tetap konsentrasi:
 
-### 1. Tidur yang Cukup dan Berkualitas
-- **Tidur Malam yang Cukup**: Usahakan tidur selama 7-9 jam setiap malam.
-- **Kualitas Tidur**: Pastikan tidur Anda berkualitas dengan menciptakan lingkungan tidur yang nyaman dan menghindari penggunaan gadget sebelum tidur.
+ 1. Tidur yang Cukup dan Berkualitas
+- Tidur Malam yang Cukup: Usahakan tidur selama 7-9 jam setiap malam.
+- Kualitas Tidur: Pastikan tidur Anda berkualitas dengan menciptakan lingkungan tidur yang nyaman dan menghindari penggunaan gadget sebelum tidur.
 
-### 2. Pola Makan Sehat
-- **Sarapan Bergizi**: Mulailah hari dengan sarapan yang mengandung protein, serat, dan karbohidrat kompleks.
-- **Makan Teratur**: Makanlah dalam porsi kecil tetapi sering untuk menjaga energi sepanjang hari.
-- **Hindari Makanan Berat**: Hindari makanan berlemak dan berat yang bisa membuat Anda merasa lelah setelah makan.
+ 2. Pola Makan Sehat
+- Sarapan Bergizi: Mulailah hari dengan sarapan yang mengandung protein, serat, dan karbohidrat kompleks.
+- Makan Teratur: Makanlah dalam porsi kecil tetapi sering untuk menjaga energi sepanjang hari.
+- Hindari Makanan Berat: Hindari makanan berlemak dan berat yang bisa membuat Anda merasa lelah setelah makan.
 
-### 3. Tetap Terhidrasi
-- **Minum Air**: Pastikan Anda minum cukup air sepanjang hari. Dehidrasi dapat menyebabkan kelelahan dan kurangnya konsentrasi.
+ 3. Tetap Terhidrasi
+- Minum Air: Pastikan Anda minum cukup air sepanjang hari. Dehidrasi dapat menyebabkan kelelahan dan kurangnya konsentrasi.
 
-### 4. Aktivitas Fisik
-- **Olahraga Teratur**: Lakukan olahraga ringan secara teratur, seperti berjalan kaki atau stretching, untuk meningkatkan aliran darah dan energi.
-- **Peregangan**: Lakukan peregangan singkat saat merasa mengantuk untuk mengurangi ketegangan otot dan meningkatkan aliran darah.
+ 4. Aktivitas Fisik
+- Olahraga Teratur: Lakukan olahraga ringan secara teratur, seperti berjalan kaki atau stretching, untuk meningkatkan aliran darah dan energi.
+- Peregangan: Lakukan peregangan singkat saat merasa mengantuk untuk mengurangi ketegangan otot dan meningkatkan aliran darah.
 
-### 5. Manajemen Waktu dan Istirahat
-- **Istirahat Singkat**: Ambil istirahat singkat setiap 60-90 menit untuk menghindari kelelahan mental.
-- **Teknik Pomodoro**: Gunakan teknik Pomodoro, yaitu bekerja selama 25 menit kemudian istirahat selama 5 menit, untuk meningkatkan fokus.
+ 5. Manajemen Waktu dan Istirahat
+- Istirahat Singkat: Ambil istirahat singkat setiap 60-90 menit untuk menghindari kelelahan mental.
+- Teknik Pomodoro: Gunakan teknik Pomodoro, yaitu bekerja selama 25 menit kemudian istirahat selama 5 menit, untuk meningkatkan fokus.
 
-### 6. Lingkungan Kerja yang Mendukung
-- **Cahaya yang Cukup**: Pastikan ruang kerja Anda cukup terang. Cahaya yang baik dapat membantu menjaga kewaspadaan.
-- **Udara Segar**: Ventilasi yang baik atau sesekali membuka jendela untuk menghirup udara segar dapat membantu mengurangi rasa kantuk.
+ 6. Lingkungan Kerja yang Mendukung
+- Cahaya yang Cukup: Pastikan ruang kerja Anda cukup terang. Cahaya yang baik dapat membantu menjaga kewaspadaan.
+- Udara Segar: Ventilasi yang baik atau sesekali membuka jendela untuk menghirup udara segar dapat membantu mengurangi rasa kantuk.
 
-### 7. Stimulasi Mental
-- **Tantang Diri Sendiri**: Kerjakan tugas yang menantang dan menarik untuk menjaga pikiran tetap aktif.
-- **Variasi Tugas**: Variasikan tugas-tugas yang Anda kerjakan untuk menghindari kebosanan yang dapat menyebabkan kantuk.
+ 7. Stimulasi Mental
+- Tantang Diri Sendiri: Kerjakan tugas yang menantang dan menarik untuk menjaga pikiran tetap aktif.
+- Variasi Tugas: Variasikan tugas-tugas yang Anda kerjakan untuk menghindari kebosanan yang dapat menyebabkan kantuk.
 
-### 8. Menghindari Kebiasaan yang Mengganggu
-- **Kafein**: Konsumsi kafein dalam jumlah sedang bisa membantu, tapi hindari konsumsi berlebihan atau terlalu dekat dengan waktu tidur.
-- **Gadget**: Batasi waktu penggunaan gadget terutama sebelum tidur karena bisa mengganggu kualitas tidur.
+ 8. Menghindari Kebiasaan yang Mengganggu
+- Kafein: Konsumsi kafein dalam jumlah sedang bisa membantu, tapi hindari konsumsi berlebihan atau terlalu dekat dengan waktu tidur.
+- Gadget: Batasi waktu penggunaan gadget terutama sebelum tidur karena bisa mengganggu kualitas tidur.
 
 Dengan menerapkan tips-tips di atas, Anda dapat mengurangi rasa mengantuk dan meningkatkan konsentrasi sepanjang hari. Jika masalah mengantuk berlanjut, pertimbangkan untuk berkonsultasi dengan profesional kesehatan.
 
@@ -39,128 +39,128 @@ Dengan menerapkan tips-tips di atas, Anda dapat mengurangi rasa mengantuk dan me
 
 Membuat website company profile untuk perusahaan penyedia layanan internet (Internet Service Provider, ISP) membutuhkan struktur yang jelas dan informatif. Berikut adalah contoh struktur beserta data dummy yang dapat Anda gunakan:
 
-### Struktur Website Company Profile ISP
+ Struktur Website Company Profile ISP
 
-1. **Home**
+1. Home
    - Hero Section (Gambar dan tagline)
    - Tentang Kami (ringkasan singkat)
    - Layanan Unggulan
    - Testimoni
    - Call to Action
 
-2. **Tentang Kami**
+2. Tentang Kami
    - Sejarah Perusahaan
    - Visi dan Misi
    - Tim Kami
    - Karir
 
-3. **Layanan**
+3. Layanan
    - Internet Fiber Optik
    - Internet Dedicated
    - Layanan Tambahan (Hosting, VoIP, dll.)
    - Paket dan Harga
 
-4. **Testimoni**
+4. Testimoni
    - Ulasan Pelanggan
    - Studi Kasus
 
-5. **Berita dan Blog**
+5. Berita dan Blog
    - Artikel Terkini
    - Berita Perusahaan
 
-6. **Kontak**
+6. Kontak
    - Formulir Kontak
    - Informasi Kontak (Alamat, Telepon, Email)
    - Lokasi (Peta)
 
-7. **FAQ**
+7. FAQ
    - Pertanyaan Umum
 
-### Data Dummy
+ Data Dummy
 
-#### Home
-**Hero Section:**
+ Home
+Hero Section:
 - Tagline: "Menyediakan Internet Cepat dan Andal untuk Semua Kebutuhan Anda"
 - Button: "Pelajari Lebih Lanjut"
 
-**Tentang Kami:**
+Tentang Kami:
 - Ringkasan: "Kami adalah penyedia layanan internet terkemuka dengan fokus pada kecepatan, stabilitas, dan layanan pelanggan terbaik."
 
-**Layanan Unggulan:**
+Layanan Unggulan:
 - Internet Fiber Optik dengan kecepatan hingga 1 Gbps
 - Layanan pelanggan 24/7
 - Paket fleksibel untuk rumah dan bisnis
 
-**Testimoni:**
+Testimoni:
 - "Internet sangat cepat dan stabil, pelayanan pelanggan juga sangat responsif!" - Budi Santoso
 
-**Call to Action:**
+Call to Action:
 - Button: "Hubungi Kami Sekarang"
 
-#### Tentang Kami
-**Sejarah Perusahaan:**
+ Tentang Kami
+Sejarah Perusahaan:
 - "ISP Solutions didirikan pada tahun 2010 dengan misi menyediakan akses internet berkualitas tinggi di seluruh Indonesia. Kami terus berkembang dengan teknologi terbaru untuk memastikan pelanggan kami mendapatkan layanan terbaik."
 
-**Visi dan Misi:**
+Visi dan Misi:
 - Visi: "Menjadi penyedia layanan internet terkemuka di Asia Tenggara."
 - Misi: "Menyediakan layanan internet yang cepat, andal, dan terjangkau bagi semua lapisan masyarakat."
 
-**Tim Kami:**
+Tim Kami:
 - CEO: Andi Wijaya
 - CTO: Lina Hartanto
 - COO: Rizal Kurniawan
 
-**Karir:**
+Karir:
 - "Bergabunglah dengan tim kami yang dinamis dan inovatif. Lihat lowongan pekerjaan kami di sini." [Link ke halaman karir]
 
-#### Layanan
-**Internet Fiber Optik:**
+ Layanan
+Internet Fiber Optik:
 - "Nikmati kecepatan internet tanpa batas dengan teknologi fiber optik kami. Cocok untuk streaming, gaming, dan bekerja dari rumah."
 
-**Internet Dedicated:**
+Internet Dedicated:
 - "Layanan internet khusus untuk bisnis dengan jaminan uptime 99,9% dan dukungan teknis 24/7."
 
-**Layanan Tambahan:**
+Layanan Tambahan:
 - Hosting: "Solusi hosting terpercaya untuk website Anda."
 - VoIP: "Layanan VoIP dengan kualitas suara jernih untuk komunikasi bisnis."
 
-**Paket dan Harga:**
+Paket dan Harga:
 - Paket Rumah: Mulai dari Rp 300.000/bulan
 - Paket Bisnis: Mulai dari Rp 1.500.000/bulan
 - Paket Custom: Hubungi kami untuk penawaran khusus
 
-#### Testimoni
-**Ulasan Pelanggan:**
+ Testimoni
+Ulasan Pelanggan:
 - "Layanan yang sangat memuaskan, tim support sangat membantu!" - Siti Nurhaliza
 - "Kecepatan internet yang sangat stabil, sangat cocok untuk bisnis kami." - Ahmad Fauzan
 
-**Studi Kasus:**
+Studi Kasus:
 - "Studi Kasus: Meningkatkan Kinerja Perusahaan dengan Internet Dedicated"
 
-#### Berita dan Blog
-**Artikel Terkini:**
+ Berita dan Blog
+Artikel Terkini:
 - "5 Tips Memilih Paket Internet yang Tepat untuk Rumah Anda"
 - "Keunggulan Internet Fiber Optik Dibandingkan ADSL"
 
-**Berita Perusahaan:**
+Berita Perusahaan:
 - "ISP Solutions Meluncurkan Layanan Internet Cepat di Kota Baru"
 
-#### Kontak
-**Formulir Kontak:**
+ Kontak
+Formulir Kontak:
 - Nama:
 - Email:
 - Pesan:
 
-**Informasi Kontak:**
+Informasi Kontak:
 - Alamat: Jl. Merdeka No. 123, Jakarta
 - Telepon: (021) 123-4567
 - Email: info@ispsolutions.co.id
 
-**Lokasi:**
+Lokasi:
 - [Peta Lokasi Google Maps]
 
-#### FAQ
-**Pertanyaan Umum:**
+ FAQ
+Pertanyaan Umum:
 - Q: Bagaimana cara mendaftar layanan ISP Solutions?
   - A: Anda bisa mendaftar melalui website kami atau menghubungi layanan pelanggan.
 
